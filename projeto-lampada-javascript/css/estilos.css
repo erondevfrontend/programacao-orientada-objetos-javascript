@@ -1,0 +1,16 @@
+body{
+    background: black;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h1#acenda-lampada{
+    color: yellow;
+    margin-top: 50px;
+}
+
+ol#lista-ordenada{
+    color: yellow;
+    font-size: 15px;
+    list-style: none;
+}
